@@ -19,3 +19,5 @@ classDiagram
   
   Product "1" *-- "1..*" Category
 ```
+
+- API feita em 2 horas então ainda não há uma relação correta entre as tabelas (Categorias que se repetem ainda tem o ID distinto)
